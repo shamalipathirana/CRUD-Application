@@ -16,3 +16,12 @@
   font-size: 25px;
 
 }
+button{
+  width:100px;
+  text-align: center;
+  cursor: pointer;
+  background: green;
+  color: aliceblue;
+  font-size: 20px;
+  margin-top: 5px;
+}
